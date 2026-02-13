@@ -15,10 +15,9 @@
 
 # 輸入/輸出
 ## 輸入資料
-- Excel 檔案：`cleaned_stock_data1.xlsx`
+- Excel 檔案：
   - **P 工作表**：還原收盤價 (Adjusted Close)
   - **Q 工作表**：成交量 (Volume，單位：張)
-  - **F 工作表**：外資買賣超 (Foreign Investment，單位：千元)
 
 ## 輸出結果
 - Excel 檔案：檔名設定為策略名稱
